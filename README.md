@@ -16,3 +16,5 @@ From this we can see that Denver was the largest county.
 - Raymon Anthony Doane: 11,606 (3.1%)
 
 From this we can see that Diana DeGette is our winner.
+
+This scrpit of code can be used if we get identical csv files. For modification I can get the county with the least amount of votes by adjusting my if statements. I can also add another for loop to get the number of candidate votes per county.
