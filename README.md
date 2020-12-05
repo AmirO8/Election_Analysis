@@ -2,6 +2,8 @@
 Python
 
 The purpose of this analysis to acquire the total votes, county votes, largest county, candidate votes and the winning candidate.
+
+# County_Votes
 - The total votes were 369,711
 - County Votes
   - Jefferson: 38,855 (10.5%)
