@@ -1,9 +1,10 @@
-# Election_Analysis
+# Election Analysis
 Python
 
 The purpose of this analysis to acquire the total votes, county votes, largest county, candidate votes and the winning candidate.
 
-# County_Votes
+# County Votes 
+![county_votes](https://github.com/AmirO8/Election_Analysis/blob/main/County%20Votes.png)
 - The total votes were 369,711
 - County Votes
   - Jefferson: 38,855 (10.5%)
@@ -13,6 +14,7 @@ The purpose of this analysis to acquire the total votes, county votes, largest c
 From this we can see that Denver was the largest county.
 
 # Candidate Votes
+![candidate_votes](https://github.com/AmirO8/Election_Analysis/blob/main/Candidate%20Votes.png)
 - Charles Casper Stockham: 85,213 (23.0%)
 - Diana DeGette: 272,892 (73.8%)
 - Raymon Anthony Doane: 11,606 (3.1%)
